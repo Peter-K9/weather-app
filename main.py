@@ -1,7 +1,10 @@
+import json
+import os
 
-API_KEY = "key"
-DATA_URL = "weather.com/"
 
+
+DATA_URL = "http://api.weatherapi.com/v1"
+USER_LOCATION = ""
 
 def get_weather(location):
     url = f"{DATA_URL}/current.json?key={API_KEY}&q={location}"
@@ -14,7 +17,8 @@ def display_weather(weather_data):
 
 
 def get_user_location():
-    print()
+    user_location = input("What is you location? ")
+    return user_location
     # prompt the user to enter in their location
 
 
