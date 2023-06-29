@@ -1,0 +1,9 @@
+# Define global variables
+# define and outline functions
+    # implement a secure method of obtaining and securing the API key
+# function to get the weather data needed from the data source
+# function to display/show the retrieved weather data
+# get user location for accurate usage for the user
+# function to validate that the users input is an actual location
+    mayabe a list of option / fill in the blank <-- future feature
+# main function to handle the logic and operations and orhestrate the implemented functions
