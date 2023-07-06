@@ -1,13 +1,23 @@
 Install the geopy library
 
+---Version 1.3
+    This version will be focused on the a GUI version of the app
 
 
-# Define global variables
-# define and outline functions
-    # implement a secure method of obtaining and securing the API key
-# function to get the weather data needed from the data source
-# function to display/show the retrieved weather data
-# get user location for accurate usage for the user
-# function to validate that the users input is an actual location
+---Version 1.1
+    # Add in a list of options for the user to chose for what gets retrieved
+        Farenheit vs celsius, current vs forecasted, 
+    #
+
+
+
+---Version 1.0
+(Done)# Define global variables
+(Done)# define and outline functions
+    (Done)# implement a secure method of obtaining and securing the API key
+(Done)# function to get the weather data needed from the data source
+(Done)# function to display/show the retrieved weather data
+(Done)# get user location for accurate usage for the user
+(Done)# function to validate that the users input is an actual location
     mayabe a list of option / fill in the blank <-- future feature
-# main function to handle the logic and operations and orhestrate the implemented functions
+(Done)# main function to handle the logic and operations and orhestrate the implemented functions
