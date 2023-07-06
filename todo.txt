@@ -1,3 +1,7 @@
+Install the geopy library
+
+
+
 # Define global variables
 # define and outline functions
     # implement a secure method of obtaining and securing the API key
