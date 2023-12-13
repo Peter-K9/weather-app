@@ -1,7 +1,11 @@
 Install the geopy library
 
+
+
+
 ---Version 1.3
-    This version will be focused on the a GUI version of the app
+    write, rewrite, convert to DJango app 
+
 
 
 ---Version 1.1
